@@ -10,8 +10,8 @@ FortGroups =
 	{
 		TeamFort(1, 1), -- vanilla forts team 1
 		TeamFort(2, 1), -- vanilla forts team 2
-		"ai/forts/vanilla/mid",
-		"ai/forts/vanilla/long",
+		"ai/forts/vanillagen/mid",
+		"ai/forts/vanillagen/long",
 	},
 }
 
